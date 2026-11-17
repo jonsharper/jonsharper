@@ -2,7 +2,7 @@
 
 **Data engineer focused on Azure Databricks, Unity Catalog and data platform operations.**
 
-I've spent 7 years in data, the last 4 in data engineering, building and running platforms for banking (Santander, PicPay) and, today, energy trading. I like the unglamorous part of data platforms: the jobs that quietly fail, the warehouses nobody turns off, and the migrations everyone postpones.
+I've spent 7 years in data, the last 4 in data engineering, building and running platforms for banking (Santander, PicPay) and, today, on a fortune-500 energy trading (NDA). I like the unglamorous part of data platforms: the jobs that quietly fail, the warehouses nobody turns off, and the migrations everyone postpones.
 
 ### What I work on
 
